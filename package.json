@@ -1,16 +1,16 @@
 {
-  "name": "asincronismo",
-  "version": "1.0.0",
-  "description": "Trabajar con asincronismo con JavaScript",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "callbacks",
-    "promises",
-    "async"
-  ],
-  "author": "Jose",
-  "license": "MIT"
+    "name": "asincronismo",
+    "version": "1.0.0",
+    "description": "Trabajar con asincronismo con JavaScript",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/callback/index.js"
+    },
+    "keywords": [
+        "callbacks",
+        "promises",
+        "async"
+    ],
+    "author": "Jose",
+    "license": "MIT"
 }
